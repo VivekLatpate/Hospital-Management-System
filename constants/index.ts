@@ -26,56 +26,55 @@ export const PatientFormDefaultValues = {
   privacyConsent: false,
 };
 
+
+
 export const IdentificationTypes = [
+  "Aadhar Card",
   "Birth Certificate",
   "Driver's License",
   "Medical Insurance Card/Policy",
-  "Military ID Card",
-  "National Identity Card",
   "Passport",
-  "Resident Alien Card (Green Card)",
-  "Social Security Card",
-  "State ID Card",
   "Student ID Card",
   "Voter ID Card",
+  "Pan Card",
 ];
 
 export const Doctors = [
   {
     image: "/assets/images/dr-green.png",
-    name: "John Green",
+    name: "Vitthalrao Deshmukh",
   },
   {
     image: "/assets/images/dr-cameron.png",
-    name: "Leila Cameron",
+    name: "Suman More Patil",
   },
   {
     image: "/assets/images/dr-livingston.png",
-    name: "David Livingston",
+    name: "Rajesh Deshpande",
   },
   {
     image: "/assets/images/dr-peter.png",
-    name: "Evan Peter",
+    name: "Sreenivas Kulkarani",
   },
   {
     image: "/assets/images/dr-powell.png",
-    name: "Jane Powell",
+    name: "Anil Pattewar",
   },
   {
     image: "/assets/images/dr-remirez.png",
-    name: "Alex Ramirez",
+    name: "Mayur Satkarani Patil",
   },
   {
     image: "/assets/images/dr-lee.png",
-    name: "Jasmine Lee",
+    name: "Sujay Phadnavis",
   },
   {
     image: "/assets/images/dr-cruz.png",
-    name: "Alyana Cruz",
+    name: "Rashmika Nitesh Rane",
   },
   {
     image: "/assets/images/dr-sharma.png",
-    name: "Hardik Sharma",
+    name: "Kishore Mahesh Sirnaik",
   },
 ];
 
